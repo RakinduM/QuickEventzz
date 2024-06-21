@@ -1,0 +1,8 @@
+--ServiceProvider--
+
+In the calendar page,
+We can create events and add it to the calendar, edit details of event and delete event. The idea of this is maintain an availability calendar to keep things organized.
+
+
+In the user profile section,
+We able to update user account details. Add services.
